@@ -1,0 +1,16 @@
+.main{
+    border: 2px solid red;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 450px;
+    height: 450px;
+}
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,42 @@
+
+#netimg{
+    height: 75px;
+}
+#main{
+    border: 1px;
+    background-color: black;
+    display: flex;
+}
+#btn{
+    background-color: red;
+    height: 40px;
+    font-size: large;
+}
+#next{
+    margin-top: 20px;
+    margin-left: 1000px;
+}
+#size{
+    height: 38px;
+    font-size: large;
+    margin-right: 10px;
+}
+/* #backimg{
+    height: 600px;
+    width: 1350px;
+} */
+
+#midcontent{
+    text-align: center;
+    margin-top: 150px;
+}
+#gs{
+    width: 150px;
+    height: 40px;
+    background-color: red;
+}
+#em{
+    height: 35px;
+    width: 300px;
+    background-color: white;
+}

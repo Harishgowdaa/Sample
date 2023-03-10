@@ -1,0 +1,103 @@
+[
+    {
+        "Photo":"http://drive.google.com/uc?export=view&id=1040CY_fqPN5nFrJ3Lfc3cPNIArqncg4Q",
+        "Name":"Pavan",
+        "PhoneNumber":"9741529269",
+        "Qualification":"Double Degree Holder(BCA,MCA)",
+        "YOP":"2022",
+        "Skills":["Java FullStack","FrameWorks","React"],
+        "CTCDemand":"10LPA",
+        "Status":"Yet Be Placed"
+
+    },
+    {
+        "Name":"Harish Gowda",
+        "PhoneNumber":"9535848795",
+        "Qualification":"BE (Mechanical) Diploma(Mech)",
+        "YOP":"2022",
+        "Skills":["Java FullStack","FrameWorks","React"],
+        "Photo":"http://drive.google.com/uc?export=view&id=1THs6fqpSr00hmP3UBle49Q1CdI8BAcTS",
+        "CTCDemand":"Company Standards",
+        "Status":"Yet Be Placed"
+    },
+    {
+        "Name":"Abhi",
+        "PhoneNumber":"9945593264",
+        "Qualification":"BE (Civil)",
+        "YOP":"2021",
+        "Skills":["Java FullStack","FrameWorks","React"],
+        "Photo":"http://drive.google.com/uc?export=view&id=11EoLWaqrduCYmUNfPYJa8Gc-hYtYdyns",
+        "CTCDemand":"8LPA",
+        "Status":"Yet Be Placed"
+    },
+    {
+        "Name":"Kavya",
+        "PhoneNumber":"9148786673",
+        "Qualification":"BE (EC)",
+        "YOP":"2022",
+        "Skills":["Java FullStack","FrameWorks","React"],
+        "Photo":"http://drive.google.com/uc?export=view&id=1_srlu7nGX9a4Y3uTMd3Ymqkgw1qdjWE2",
+        "CTCDemand":"8LPA",
+        "Status":"Yet Be Placed"
+    },
+    {
+        "Name":"Yaseen",
+        "PhoneNumber":"9141319763",
+        "Qualification":"BE (EC)",
+        "YOP":"2021",
+        "Skills":["Java FullStack","FrameWorks"],
+        "Photo":"http://drive.google.com/uc?export=view&id=1la4ABd3JJt6axtvArtlLwdnOHmTGAftK",
+        "CTCDemand":["3.5LPA","FUBEUS","3Years Bond"],
+        "Status":"Offered"
+    },
+    {
+        "Name":"Navya",
+        "PhoneNumber":"6362541512",
+        "Qualification":"BE (IS)",
+        "YOP":"2023",
+        "Skills":["Core Java"],
+        "Photo":"http://drive.google.com/uc?export=view&id=1V55UfrjFdNNgA_TT6NmYnXCTifoKlVbj",
+        "CTCDemand":"10K Per Month",
+        "Status":"Yet Be Placed"
+    },
+    {
+        "Name":"Seema",
+        "PhoneNumber":"6362261547",
+        "Qualification":"BE (Civil)",
+        "YOP":"2023",
+        "Skills":["Java FullStack","FrameWorks"],
+        "Photo":"http://drive.google.com/uc?export=view&id=1hwthM11txGb7J1O_wKomCwiJ1ljuz0jQ",
+        "CTCDemand":"5LPA",
+        "Status":"Yet Be Placed"
+    },
+    {
+        "Name":"Sana",
+        "PhoneNumber":"9380318861",
+        "Qualification":"BE (Civil)",
+        "YOP":"2023",
+        "Skills":["Java FullStack","FrameWorks"],
+        "Photo":"http://drive.google.com/uc?export=view&id=1bXV8ATFLKQWMYOofe24tXKy8HwqDW-9s",
+        "CTCDemand":"5LPA",
+        "Status":"Yet Be Placed"
+    },
+    {
+        "Name":"Sandhya",
+        "PhoneNumber":"7259636758",
+        "Qualification":"BE (Civil)",
+        "YOP":"2023",
+        "Skills":["Java FullStack","FrameWorks"],
+        "Photo":"http://drive.google.com/uc?export=view&id=1VtdRlghjAT51c9TFv1bFMQqUP8wR1Y6f",
+        "CTCDemand":"5LPA",
+        "Status":"Yet Be Placed"
+    },
+    {
+        "Name":"Abhishek Sir",
+        "PhoneNumber":"8971316545",
+        "Qualification":"Diploma (EE)",
+        "YOP":"2022",
+        "Skills":["Java FullStack"],
+        "Photo":"http://drive.google.com/uc?export=view&id=1-o05HA_fc87RiWGc3whqZOtSxWRDQJI5",
+        "Status":"Jspiders Trainer"
+    }
+    
+]
